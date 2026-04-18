@@ -1,3 +1,5 @@
+![the calculator project image](Screenshot%20From%202026-04-18%2019-22-45.png)
+
 # JavaScript Calculator
 
 A simple yet powerful calculator built with JavaScript, designed to perform basic arithmetic operations with a clean and responsive user interface. This project demonstrates core front-end development concepts including DOM manipulation, event handling, and dynamic UI updates.
