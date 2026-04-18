@@ -24,3 +24,4 @@ Manipulating the DOM using JavaScript
 Handling user input and events
 Structuring clean and maintainable code
 Implementing logic for calculations
+variables,data types, operators
